@@ -9,7 +9,7 @@
   - HTML
   - CSS
   - Javascript
-  - Typescrip
+  - Typescript
   - NodeJS
   - ReactJS
   - MySQL
