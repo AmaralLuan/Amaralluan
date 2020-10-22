@@ -9,12 +9,13 @@
   - HTML
   - CSS
   - Javascript
-  - Typescript
   - NodeJS
   - ReactJS
   - MySQL
 
 2. Além dessas, venho aprendendo sobre:
+  - Typescript
+  - Ionic
   - Arquitetura MVC
   - UI/UX basics
   - Python
