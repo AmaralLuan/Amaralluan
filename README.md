@@ -15,8 +15,8 @@
   - MongoDB
 
 2. Além dessas, venho aprendendo sobre:
-  - Typescript
-  - Ionic
+  - Scikit Learn
+  - Figma
   - Arquitetura MVC
   - UI/UX basics
   - Python
