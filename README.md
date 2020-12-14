@@ -12,7 +12,6 @@
   - NodeJS
   - ReactJS
   - MySQL
-  - MongoDB
 
 2. Além dessas, venho aprendendo sobre:
   - Scikit Learn
